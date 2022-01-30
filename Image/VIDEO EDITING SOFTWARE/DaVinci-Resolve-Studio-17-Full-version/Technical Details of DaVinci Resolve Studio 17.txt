@@ -1,0 +1,7 @@
+Software Name: DaVinci Resolve Studio for Windows
+Software File Name: DaVinci-Resolve-Studio-17.4.3.0010-x64.rar
+Software Version: 17.4.3.0010
+File Size: 2.51 GB
+Developer: Blackmagic Design
+Language: English
+Working Mode: Offline (You don’t need an internet connection to use it after installing)

@@ -1,0 +1,5 @@
+Software Name: Topaz Sharpen AI for Windows
+Software File Name: Topaz-Sharpen-AI-3.1.2
+File Size: 2 GB
+Developer: Topaz Labs
+File Password: 123

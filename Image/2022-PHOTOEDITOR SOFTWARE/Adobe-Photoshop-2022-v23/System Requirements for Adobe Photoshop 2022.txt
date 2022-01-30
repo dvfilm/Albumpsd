@@ -1,0 +1,5 @@
+Operating System: Windows 10, 11
+Free Hard Disk Space: 5 GB of minimum free HDD
+Installed Memory RAM: 8 GB Recommended
+Processor: Intel Core i3 or higher
+Minimum Screen Resolution: 800 x 600

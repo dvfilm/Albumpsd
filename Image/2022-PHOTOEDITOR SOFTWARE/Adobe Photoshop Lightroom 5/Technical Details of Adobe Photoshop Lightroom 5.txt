@@ -1,0 +1,7 @@
+Software Name: Photoshop Lightroom for Windows
+Software File Name: Adobe-Photoshop-Lightroom-5.1-x64.rar, Adobe-Photoshop-Lightroom-4.4.rar
+Software Version: 5.1
+File Size: 837 MB
+Developer: Adobe
+Language: English
+Working Mode: Offline (You don’t need an internet connection to use it after installing)

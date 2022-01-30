@@ -1,0 +1,5 @@
+Operating System: Windows 10/8/7
+Free Hard Disk Space: 5 GB of minimum free HDD
+Installed Memory: 8 GB of minimum RAM
+Processor: Intel Multi-Core Processor or higher
+Minimum Screen Resolution: 800 x 600

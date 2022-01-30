@@ -1,0 +1,8 @@
+Software Name: Capture One Pro for Windows
+Software File Name: Capture-One-22-Pro-15.0.0.94, Capture-One-21-Pro-14.4.0.101.rar
+Software Version: 15.0.0.94, 14.4.0.101
+File Size: 460 MB, 378 MB
+File Password: 
+Developer: Phase One
+Language: Multilingual
+Working Mode: Offline (You don’t need an internet connection to use it after installing)

@@ -1,0 +1,5 @@
+Operating System: Windows 7, 8, 10
+Free HDD: 1 GB of minimum free HDD
+RAM Required: 8 GB of minimum RAM
+Processor Required: Intel Multi-Core Processor
+Processor: Intel Multi-Core Processor or higher

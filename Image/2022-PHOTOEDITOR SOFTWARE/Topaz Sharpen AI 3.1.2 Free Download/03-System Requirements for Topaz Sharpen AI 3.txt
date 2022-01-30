@@ -1,0 +1,4 @@
+Operating System: Windows 10/8/7
+Free Hard Disk Space: 4 GB of minimum free HDD
+Installed Memory: 4 GB of minimum RAM
+Processor: Intel Core 2 Duo or higher

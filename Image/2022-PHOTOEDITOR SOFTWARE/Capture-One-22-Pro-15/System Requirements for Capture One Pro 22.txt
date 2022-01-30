@@ -1,0 +1,5 @@
+Operating System: Windows 10/8/7
+Free Hard Disk Space: 1 GB free HDD
+Installed Memory: 1 GB of RAM
+Processor: Intel Core 2 Duo or higher
+Minimum Screen Resolution: 800 x 600

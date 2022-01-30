@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Index Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="./main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+    
+    $(document).ready(function(){
+    
+      $('.row').slice(0,3).show();
+    
+      $('.loadmore').on('click',function(){
+    
+        $('.row:hidden').slice(0,3).slideDown('slow');
+    
+        if($('.row:hidden').length == 0){
+    
+          $(this).fadeOut('slow');
+        }
+        return false;
+      })
+      });
+    </script>
+</head>
+
+<body>
+    <div class="headImage">
+        <img src="./Image/DVFilmLogo-01.png" class="headImage" alt="pooripadh">
+    </div>
+
+
+    <div class="navbar">
+        <a href="Index.html">HOME</a>
+            <a href="ALL PHOTO SOFTWARE.html">PHOTO EDITING</a>
+            <a href="video_editing.html">VIDEO EDITING</a>
+        <div class="dropdown">
+          <button class="dropbtn">WEDDING PSD
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a href="ALL 14x40.html">
+                <li>14X40 PSD</li>
+            </a>
+            <a href="All 12X36.html">
+                <li>12X36 PSD</li>
+            </a>
+            <a href="">
+                <li>10X28 PSD</li>
+            </a>
+            <a href="">
+                <li>12X18 PSD</li>
+            </a>
+          </div>
+          </div>
+          <a href="video_editing.html">EDIUS PROJECTS</a>
+        <a href="video_editing.html">HOW TO DOWNLOAD</a> 
+      </div>
+      
+      <div class="slideshow-container">
+
+        <div class="mySlides fade">
+          <img src="./Image/01.jpg" style="width:100%">
+        </div>
+        
+        <div class="mySlides fade">
+          <img src="./Image/02.jpg" style="width:100%">
+        </div>
+        
+        <div class="mySlides fade">
+          <img src="./Image/03.jpg" style="width:100%" class="size">
+        </div>
+        
+        </div>
+        <br>
+        
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+      <script>
+        var slideIndex = 0;
+        showSlides();
+        
+        function showSlides() {
+          var i;
+          var slides = document.getElementsByClassName("mySlides");
+          var dots = document.getElementsByClassName("dot");
+          for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+          }
+          slideIndex++;
+          if (slideIndex > slides.length) {slideIndex = 1}    
+          for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+          }
+          slides[slideIndex-1].style.display = "block";  
+          dots[slideIndex-1].className += " active";
+          setTimeout(showSlides, 2000); // Change image every 2 seconds
+        }
+        </script>
+
+<div class="row">
+  <div class="column">
+    <img src="./Image/2022-PHOTOEDITOR SOFTWARE/Capture-One-22-Pro-15/Capture-One-22-Pro-15.jpg" alt="Snow" style="width:100%">
+    <h3>Capture-One-22-Pro-15 FREE LIFE TIME</h3>
+    <a href="Capture-One-22-Pro-15.0.0.94.html" class="btn-e">Download</a>
+  </div>
+  <div class="column">
+    <img src="./Image/2022-PHOTOEDITOR SOFTWARE/AnyMP4 Data Recovery 1.1.26 (x64) Multilingual/AnyMP4 Data Recovery 1.1.26 (x64) Multilingual.jpg" alt="Forest" style="width:100%">
+    <h3>AnyMP4 Data Recovery 1.1.26 (x64) Multilingual</h3>
+    <a href="AnyMP4 Data Recovery 1.1.26 (x64) Multilingual.html" class="btn-e">Download</a>
+  </div>
+  <div class="column">
+    <!-- <img src="./Image/2022-PHOTOEDITOR SOFTWARE/ACDSee Photo Studio Pro 2022/ACDSee Photo Studio Pro 2022.jpg" alt="Mountains" style="width:100%">
+    <h3>ACDSee Photo Studio Pro 2022 FREE LITE TIME DOWNLOAD</h3>
+    <a href="ACDSee Photo Studio Pro 2022.html" class="btn-e">Download</a> -->
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="./Image/2022-PHOTOEDITOR SOFTWARE/ADOBE PHOTOSHOP 2021/ADOBE PHOTOSHOP 2021.jpg" alt="Snow" style="width:100%">
+    <h3>ADOBE PHOTOSHOP 2021 FREE LIFE TIME</h3>
+    <a href="photo_shop_2021.html" class="btn-e">Download</a>
+  </div>
+  <div class="column">
+    <img src="./Image/2022-PHOTOEDITOR SOFTWARE/Adobe-Photoshop-2022-v23/Adobe-Photoshop-2022-v23.jpg" alt="Forest" style="width:100%">
+    <h3>ADOBE PHOTOSHOP 2022 FREE LIFE TIME</h3>
+    <a href="Adobe-Photoshop-2022-v23.html" class="btn-e">Download</a>
+  </div>
+  <div class="column">
+    <img src="./Image/2022-PHOTOEDITOR SOFTWARE/ACDSee Photo Studio Pro 2022/ACDSee Photo Studio Pro 2022.jpg" alt="Mountains" style="width:100%">
+    <h3>ACDSee Photo Studio Pro 2022 FREE LITE TIME DOWNLOAD</h3>
+    <a href="ACDSee Photo Studio Pro 2022.html" class="btn-e">Download</a>
+  </div>
+</div>
+
+<br>
+<button class="loadmore">Load More</button>
+<br>
+<br>
+<br>
+<br>
+</body>
+
+</html>

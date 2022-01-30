@@ -1,0 +1,7 @@
+1 - Software Full Name: ACDSee Photo Studio Professional 2022
+2 - Setup File Name: ACDSee.Photo.Studio.Pro.2022_15.0.1919×64.rar
+3 - Setup Size: 272 MB
+4 - Setup Type: Offline Installer / Full Standalone Setup
+5 - Compatibility Mechanical: 64 Bit (x64)
+6 - Latest Version Release Added On: 25th Sep 2021
+7 - Developers: ACDSee

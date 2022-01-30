@@ -1,0 +1,5 @@
+1 - Operating System: Windows XP/Vista/7/8/8.1/10
+2 - RAM: 2 GB
+3 - Hard Disk: 300 MB
+4 - Processor: 2.0 GHz multi-core or higher processor
+5 - Display: 1024 x 768 display resolution

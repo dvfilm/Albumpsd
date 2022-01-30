@@ -1,0 +1,7 @@
+Software Name: AnyMP4 Data Recovery for Windows
+Software File Name: AnyMP4-Data-Recovery-1.1.26-x64
+Software Version: 1.1.26
+File Size: 15.5 MB
+Developers: AnyMP4
+Language: English
+Working Mode: Offline (You don’t need an internet connection to use it after installing)
